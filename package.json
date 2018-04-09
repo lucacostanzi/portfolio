@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucacostanzi.github.io",
+  "homepage": "https://lucacostanzi.github.io/portfolio",
   "dependencies": {
     "bulma": "^0.6.0",
     "reactbulma": "^1.1.1",
