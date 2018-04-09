@@ -1,11 +1,11 @@
 import Axios from 'axios';
 
 function getSkills() {
-  return Axios.get('/data/skills.json');
+  return Axios.get('data/skills.json');
 }
 
 function getUserInfo() {
-  return Axios.get('/data/skills.json');
+  return Axios.get('data/skills.json');
 }
 
 export const helpers = {
