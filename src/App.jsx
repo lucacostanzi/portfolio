@@ -104,7 +104,7 @@ const App = function () {
         <Header title="My projects" subtitle="What I do in my free time." color="is-warning " />
         <div className="section" >
           <div className="container is-primary" >
-            <Project image="/images/dynabox.png" left={false} >
+            <Project image="images/dynabox.png" left={false} >
               <h1 className="title  is-2 " style={{ marginBottom: 10 }} >Dynabox</h1>
               <p className="tags " style={{ padding: 0, margin: 0 }} >
                 <Tag dark >Jquery</Tag>
@@ -138,7 +138,7 @@ const App = function () {
                 </a>
               </p>
             </Project>
-            <Project image="/images/commandline.png" left >
+            <Project image="images/commandline.png" left >
               <h1 className="title  is-2 " style={{ marginBottom: 10 }} >WebTerminal</h1>
               <p className="tags " style={{ padding: 0, margin: 0 }} >
                 <Tag dark >Jquery</Tag>
@@ -169,7 +169,7 @@ const App = function () {
                 </a>
               </p>
             </Project>
-            <Project image="/images/website.png" left={false} >
+            <Project image="images/website.png" left={false} >
               <h1 className="title  is-2 " style={{ marginBottom: 10 }} >This website!</h1>
               <p className="tags " style={{ padding: 0, margin: 0 }} >
                 <Tag dark >React</Tag>
@@ -181,7 +181,7 @@ const App = function () {
                 from a remote
                 json file.</p>
             </Project>
-            <Project image="/images/reactreduxorders.png" left >
+            <Project image="images/reactreduxorders.png" left >
               <h1 className="title  is-2 " style={{ marginBottom: 10 }} >React-redux Orders</h1>
               <p className="tags " style={{ padding: 0, margin: 0 }} >
                 <Tag dark >React</Tag>

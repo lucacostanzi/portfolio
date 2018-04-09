@@ -6,7 +6,7 @@ const Bio = () => (
     <div className="column is-8 is-offset-2 " style={{ padding: 20 }} >
       <Media>
         <Media.Left>
-          <figure className="image is-64x64" ><img alt="" src="/images/pic3.jpg" />
+          <figure className="image is-64x64" ><img alt="" src="images/pic3.jpg" />
           </figure>
         </Media.Left>
         <Media.Content>
