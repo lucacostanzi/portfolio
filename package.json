@@ -2,20 +2,23 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lucacostanzi.github.io/portfolio",
+  "homepage": "https://lucacostanzi.github.io/portfolio/",
   "dependencies": {
+    "axios": "^0.17.0",
     "bulma": "^0.6.0",
-    "reactbulma": "^1.1.1",
+    "gh-pages": "^1.1.0",
+    "immutable": "^3.8.2",
     "node-dijkstra": "2.5.0",
     "prop-types": "^15.6.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.16",
-    "immutable": "^3.8.2",
-    "axios": "^0.17.0",
-    "react-star-rating-component": "^1.3.0"
+    "react-star-rating-component": "^1.3.0",
+    "reactbulma": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
