@@ -1,0 +1,250 @@
+[
+  {
+    "id": 0,
+    "title": "PHP",
+    "rating": 5,
+    "type": "Language",
+    "content": "PHP is a server-side scripting language designed primarily for web development but also used as a general-purpose programming language.",
+    "imgsrc": "images/php.png"
+  },
+  {
+    "id": 1,
+    "title": "React",
+    "rating": 5,
+    "type": "Framework",
+    "content": "In computing, React is a JavaScript library for building user interfaces.",
+    "imgsrc": "images/react.bmp"
+  },
+  {
+    "id": 2,
+    "title": "Javascript",
+    "rating": 5,
+    "type": "Language",
+    "content": "JavaScript, often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.",
+    "imgsrc": "images/js.png"
+  },
+  {
+    "id": 3,
+    "title": "HTML",
+    "rating": 5,
+    "type": "Language",
+    "content": "Hypertext Markup Language is the standard markup language for creating web pages and web applications.",
+    "imgsrc": "images/html.png"
+  },
+  {
+    "id": 4,
+    "title": "CSS",
+    "rating": 5,
+    "type": "Language",
+    "content": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.",
+    "imgsrc": "images/css.png"
+  },
+  {
+    "id": 5,
+    "title": "Bootstrap",
+    "rating": 4,
+    "type": "Framework",
+    "content": "Bootstrap is a free and open-source front-end web framework for designing websites and web applications.",
+    "imgsrc": "images/bootstrap.png"
+  },
+  {
+    "id": 6,
+    "title": "Mysql",
+    "rating": 5,
+    "type": "Database",
+    "content": "MySQL is an open-source relational database management system.",
+    "imgsrc": "images/mysql.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mssql",
+    "rating": 4,
+    "type": "Database",
+    "content": "Microsoft SQL Server is a relational database management system developed by Microsoft.",
+    "imgsrc": "images/mssql.png"
+  },
+  {
+    "id": 8,
+    "title": "C#",
+    "rating": 3,
+    "type": "Language",
+    "content": "C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
+    "imgsrc": "images/csharp.png"
+  },
+  {
+    "id": 9,
+    "title": "Python",
+    "rating": 2,
+    "type": "Language",
+    "content": "Python is a widely used high-level programming language for general-purpose programming.",
+    "imgsrc": "images/python.jpg"
+  },
+  {
+    "id": 10,
+    "title": ".NET Framework",
+    "rating": 3,
+    "type": "Framework",
+    "content": ".NET Framework is a software framework developed by Microsoft .",
+    "imgsrc": "images/dotnet.png"
+  },
+  {
+    "id": 11,
+    "title": "Sitecore CMS",
+    "rating": 3,
+    "type": "CMS",
+    "content": "Sitecore is an enterprise content management system.",
+    "imgsrc": "images/sitecore.png"
+  },
+  {
+    "id": 12,
+    "title": "Laravel",
+    "rating": 3,
+    "type": "Framework",
+    "content": "Laravel is a free, open-source PHP web framework.",
+    "imgsrc": "images/laravel.png"
+  },
+  {
+    "id": 13,
+    "title": "Wordpress",
+    "rating": 4,
+    "type": "CMS",
+    "content": "WordPress is a free and open-source content management system based on PHP and MySQL.",
+    "imgsrc": "images/wordpress.png"
+  },
+  {
+    "id": 14,
+    "title": "Fork",
+    "rating": 4,
+    "type": "CMS",
+    "content": "Fork CMS is dedicated to creating a user friendly environment to build, monitor and update your website.",
+    "imgsrc": "images/fork.png"
+  },
+  {
+    "id": 15,
+    "title": "RESTful Web Services",
+    "rating": 5,
+    "type": "Web Services",
+    "content": "Representational State Transfer (REST) is an architectural style that specifies constraints that enable services to work best on the Web.",
+    "imgsrc": "images/rest.png"
+  },
+  {
+    "id": 16,
+    "title": "OOP",
+    "rating": 5,
+    "type": "Programming paradigm",
+    "content": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.",
+    "imgsrc": "images/oop.jpg"
+  },
+  {
+    "id": 17,
+    "title": "FP",
+    "rating": 3,
+    "type": "Programming paradigm",
+    "content": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.",
+    "imgsrc": "images/fp.png"
+  },
+  {
+    "id": 18,
+    "title": "Bulma",
+    "rating": 4,
+    "type": "Framework",
+    "content": "Bulma is an open source CSS framework based on Flexbox and built with Sass.",
+    "imgsrc": "images/bulma.png"
+  },
+  {
+    "id": 19,
+    "title": "NPM",
+    "rating": 5,
+    "type": "Package manager",
+    "content": "npm is the package manager for JavaScript and the world's largest software registry.",
+    "imgsrc": "images/npm.png"
+  },
+  {
+    "id": 20,
+    "title": "Composer",
+    "rating": 5,
+    "type": "Package manager",
+    "content": "Dependency Manager for PHP.",
+    "imgsrc": "images/composer.png"
+  },
+  {
+    "id": 21,
+    "title": "Jquery",
+    "rating": 5,
+    "type": "Library",
+    "content": "jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.",
+    "imgsrc": "images/jquery.png"
+  },
+  {
+    "id": 22,
+    "title": "Zend Framework",
+    "rating": 2,
+    "type": "Framework",
+    "content": "Zend Framework (ZF) is an open source, object-oriented web application framework.",
+    "imgsrc": "images/zend.png"
+  },
+  {
+    "id": 23,
+    "title": "Electron",
+    "rating": 4,
+    "type": "Framework",
+    "content": "Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS.",
+    "imgsrc": "images/electron.svg"
+  },
+  {
+    "id": 24,
+    "title": "Phpstorm",
+    "rating": 5,
+    "type": "IDE",
+    "content": "PhpStorm is a perfect PHP IDE for working with Symfony, Drupal, WordPress, Zend Framework, Laravel, Magento, Joomla!, CakePHP, Yii, and other frameworks.",
+    "imgsrc": "images/phpstorm.png"
+  },
+  {
+    "id": 25,
+    "title": "Subversion",
+    "rating": 4,
+    "type": "Version Control",
+    "content": "Subversion is a software versioning and revision control system distributed as open source under the Apache License.",
+    "imgsrc": "images/subversion.png"
+  },
+  {
+    "id": 26,
+    "title": "Git",
+    "rating": 3,
+    "type": "Version Control",
+    "content": "Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.",
+    "imgsrc": "images/git.png"
+  },
+  {
+    "id": 27,
+    "title": "Netbeans",
+    "rating": 5,
+    "type": "IDE",
+    "content": "Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.",
+    "imgsrc": "images/netbeans.svg"
+  },
+  {
+    "id": 28,
+    "title": "Redux",
+    "rating": 3,
+    "type": "Library",
+    "content": "Redux is an open-source JavaScript library designed for managing application state.",
+    "imgsrc": "images/redux.png"
+  },
+  {
+    "id": 29,
+    "title": "Lodash",
+    "rating": 3,
+    "type": "Library",
+    "content": "Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.",
+    "imgsrc": "images/lodash.png"
+  },
+  {
+    "id": 30,
+    "title": "Node.js",
+    "rating": 4,
+    "type": "Framework",
+    "content": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side.",
+    "imgsrc": "images/node.png"
+  }
+]
