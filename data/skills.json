@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "title": "Javascript",
+    "title": "Javascript ES6",
     "rating": 5,
     "type": "Language",
     "content": "JavaScript, often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language.",
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "title": "C#",
-    "rating": 3,
+    "rating": 2,
     "type": "Language",
     "content": "C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.",
     "imgsrc": "images/csharp.png"
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "title": "Python",
-    "rating": 2,
+    "rating": 1,
     "type": "Language",
     "content": "Python is a widely used high-level programming language for general-purpose programming.",
     "imgsrc": "images/python.jpg"
@@ -82,7 +82,7 @@
   {
     "id": 10,
     "title": ".NET Framework",
-    "rating": 3,
+    "rating": 2,
     "type": "Framework",
     "content": ".NET Framework is a software framework developed by Microsoft .",
     "imgsrc": "images/dotnet.png"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "title": "Wordpress",
-    "rating": 4,
+    "rating": 5,
     "type": "CMS",
     "content": "WordPress is a free and open-source content management system based on PHP and MySQL.",
     "imgsrc": "images/wordpress.png"
@@ -162,7 +162,7 @@
   {
     "id": 20,
     "title": "Composer",
-    "rating": 5,
+    "rating": 3,
     "type": "Package manager",
     "content": "Dependency Manager for PHP.",
     "imgsrc": "images/composer.png"
@@ -246,5 +246,13 @@
     "type": "Framework",
     "content": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side.",
     "imgsrc": "images/node.png"
+  },
+  {
+    "id": 31,
+    "title": "Jest",
+    "rating": 2,
+    "type": "Framework",
+    "content": "Complete and ready to set-up JavaScript testing solution. Works out of the box for any React project.",
+    "imgsrc": "images/jest.png"
   }
 ]
